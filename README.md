@@ -7,3 +7,4 @@ S3-S15
 - Rewrite picking up code.
 - Rewrite dllmain
 - Move hooking to each class (for example, AFortGameModeAthena::InitHooks).
+-rewrite fork
